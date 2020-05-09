@@ -17,6 +17,8 @@ body {
 }
 header{
   font-weight: lighter;
+  font-size: 2em;
+  padding-top: 20px;
 }
 #main-doc
 {
