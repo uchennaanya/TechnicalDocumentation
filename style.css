@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar{
+  position: fixed;
+  margin-top: 20px;
+  margin-left: 20px;
+  max-width: 250px;
+}
